@@ -1,3 +1,5 @@
+# Delegates nos bastidores
+
 Delegates é bastante comum no cenário .NET. Sendo conhecido como objeto que referência métodos, possuem diversos benefícios como:
 
 1. Encapsulação de métodos
@@ -178,3 +180,11 @@ Delegates é um objeto que  se refere a métodos e pode ser usado tanto em proc
 - [Delegate Behind the Scenes](https://www.codeproject.com/search.aspx?q=Delegate+Behind+the+Scenes&x=0&y=0&sbo=kw)
 - [10 Simple Tricks to Understand C# Delegates](https://towardsdev.com/10-simple-tricks-to-understand-c-delegates-f6e09ab8f6c6)
 - [Events e delegates | C# Avançado | Notificações, Func, Action, Predicate e Anônimos](https://www.youtube.com/watch?v=SuW2GwO17qA)
+
+## Autores
+
+Estes projetos de exemplo foram criados para fins educacionais. [Marcelo](https://github.com/Mmarcelinho) é responsável pela criação e manutenção destes projetos.
+
+## Licença
+
+Este projetos não possuem uma licença específica e são fornecidos apenas para fins de aprendizado e demonstração.
