@@ -171,3 +171,10 @@ Informação do estado
 ```
 
 Delegates é um objeto que  se refere a métodos e pode ser usado tanto em processos assíncronos quanto síncronos, permitindo a execução de métodos em outras threads. O uso de processamento assíncrono é especialmente útil para realizar tarefas em segundo plano, sem bloquear o thread principal.
+
+##  Fontes de estudo
+
+-  https://www.youtube.com/watch?v=LEcxrLb3OpY
+- https://www.codeproject.com/search.aspx?q=Delegate+Behind+the+Scenes&x=0&y=0&sbo=kw
+- https://towardsdev.com/10-simple-tricks-to-understand-c-delegates-f6e09ab8f6c6
+- https://www.youtube.com/watch?v=SuW2GwO17qA
