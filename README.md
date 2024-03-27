@@ -174,7 +174,7 @@ Delegates é um objeto que  se refere a métodos e pode ser usado tanto em proc
 
 ##  Fontes de estudo
 
--  https://www.youtube.com/watch?v=LEcxrLb3OpY
-- https://www.codeproject.com/search.aspx?q=Delegate+Behind+the+Scenes&x=0&y=0&sbo=kw
-- https://towardsdev.com/10-simple-tricks-to-understand-c-delegates-f6e09ab8f6c6
-- https://www.youtube.com/watch?v=SuW2GwO17qA
+- [Advanced C# Delegates like a Senior Developer: Real-World Examples in .NET!](https://www.youtube.com/watch?v=LEcxrLb3OpY)
+- [Delegate Behind the Scenes](https://www.codeproject.com/search.aspx?q=Delegate+Behind+the+Scenes&x=0&y=0&sbo=kw)
+- [10 Simple Tricks to Understand C# Delegates](https://towardsdev.com/10-simple-tricks-to-understand-c-delegates-f6e09ab8f6c6)
+- [Events e delegates | C# Avançado | Notificações, Func, Action, Predicate e Anônimos](https://www.youtube.com/watch?v=SuW2GwO17qA)
