@@ -174,7 +174,7 @@ Informação do estado
 
 Delegates é um objeto que  se refere a métodos e pode ser usado tanto em processos assíncronos quanto síncronos, permitindo a execução de métodos em outras threads. O uso de processamento assíncrono é especialmente útil para realizar tarefas em segundo plano, sem bloquear o thread principal.
 
-##  Fontes de estudo
+##  Referências
 
 - [Advanced C# Delegates like a Senior Developer: Real-World Examples in .NET!](https://www.youtube.com/watch?v=LEcxrLb3OpY)
 - [Delegate Behind the Scenes](https://www.codeproject.com/search.aspx?q=Delegate+Behind+the+Scenes&x=0&y=0&sbo=kw)
